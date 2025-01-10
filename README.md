@@ -14,4 +14,4 @@ Start the docker containers using the following command:
 docker-compose up
 ```
 
-Then visit `http://localhost:8080` to access the app.
+Then visit `http://localhost:8051` to access the app.
